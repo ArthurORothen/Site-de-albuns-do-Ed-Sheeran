@@ -34,7 +34,6 @@ button {
     width: 45px;
     margin: 25px;
     border: solid;
-    border-width: medium;
     cursor: pointer;
 }
 
@@ -62,13 +61,12 @@ button:hover {
 .musicas {
     list-style-type: none;
     color: white;
-    border: solid;
-    border-width: thin;
+    border: 1px solid;
     background-color: black;
     padding: 20px;
     border-radius: 20px;
-    width: 40vh;
-    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.3)
+    width: 300px;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.3);
 }
 
 .imgAlbum {
