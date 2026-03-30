@@ -27,4 +27,8 @@ Navegação Circular: Lógica para que o player retorne ao primeiro álbum após
 O projeto aplica conceitos de Teoria das Cores e UI/UX, onde cada álbum possui uma identidade visual única que se reflete em todo o plano de fundo da página.
 
 📸 Demonstração
+Álbum X:
 <img width="1920" height="913" alt="image" src="https://github.com/user-attachments/assets/be3cda66-31d2-4887-9f15-e55397bfcfae" />
+
+Álbum =:
+<img width="1920" height="916" alt="image" src="https://github.com/user-attachments/assets/25b82ea8-d369-4911-b1d1-c7d1daf7b4af" />
